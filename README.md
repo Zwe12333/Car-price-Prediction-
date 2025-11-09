@@ -12,4 +12,4 @@ Predicts car price using features such as year, mileage, fuel type, transmission
 3. Run cells top-to-bottom.
 
 ## Author
-Your Name
+Hlangalezwe
